@@ -1,4 +1,4 @@
-// /*
+ /*
  * Driver interaction with generic Linux Wireless Extensions
  * Copyright (c) 2003-2010, Jouni Malinen <j@w1.fi>
  *
